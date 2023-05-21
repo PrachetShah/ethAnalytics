@@ -1,6 +1,6 @@
 ## To run the Docker Image:
 
-`docker run -p 5000:5000 ethanalytics`
+`docker run -p 5000:5000 prachetshah/ethanalytics`
 
 ## Introduction:
 
