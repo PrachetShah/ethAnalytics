@@ -20,13 +20,13 @@
 
 ## Data Pipeline Architecture:
 
-![DataPipeline.png](https://github.com/fibre-ether/bde-miniproject/blob/master/DataPipeline.png)
+![DataPipeline.png](https://github.com/fibre-ether/bde-miniproject/blob/master/images/DataPipeline.png)
 
 - Service 1 (Data Streaming and Analysis)
-  ![Service1](https://github.com/fibre-ether/bde-miniproject/blob/master/Service1.png)
+  ![Service1](https://github.com/fibre-ether/bde-miniproject/blob/master/images/Service1.png)
 
 - Service 2 (Real Time Data Retreival and Analysis)
-  ![Service2](https://github.com/fibre-ether/bde-miniproject/blob/master/Service2.png)
+  ![Service2](https://github.com/fibre-ether/bde-miniproject/blob/master/images/Service2.png)
 
 ## Result TestBeds
 
